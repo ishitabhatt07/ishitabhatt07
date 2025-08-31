@@ -6,7 +6,7 @@
 
 ## 📊 My Codolio Stats
 
-![Codolio Stats](https://codolio-api.herokuapp.com/api/stats?username=ishitabhatt07&show=streak,commits,repositories,contributions&theme=dark)
+![DSA Stats](https://codolio-api.herokuapp.com/api/stats?username=ishitabhatt07&show=streak,commits,repositories,contributions&theme=dark
 
 ---
 
