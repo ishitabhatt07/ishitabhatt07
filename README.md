@@ -4,9 +4,9 @@
 
 ---
 
-## 📊 My Codolio Stats
+## 📊 My Coding Stats
 
-![DSA Stats](https://codolio-api.herokuapp.com/api/stats?username=ishitabhatt07&show=streak,commits,repositories,contributions&theme=dark
+![Codolio Stats](https://codolio-api.herokuapp.com/api/stats?username=ishitabhatt07&show=streak,commits,repositories,contributions&theme=dark)
 
 ---
 
