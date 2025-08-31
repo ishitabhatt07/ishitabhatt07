@@ -9,9 +9,6 @@
 ### Codolio Developer Analytics
 [![Codolio Profile Card](https://codolio.com/api/profile/ishitabhatt07/card)](https://codolio.com/profile/ishitabhatt07)
 
-### LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/ishitabhatt07?theme=dark&font=source_code_pro&ext=heatmap)
-
 ---
 
 ## 🚀 About Me
