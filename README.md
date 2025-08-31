@@ -6,7 +6,11 @@
 
 ## 📊 My Coding Stats
 
-![Codolio Stats](https://codolio-api.herokuapp.com/api/stats?username=ishitabhatt07&show=streak,commits,repositories,contributions&theme=dark)
+### Codolio Developer Analytics
+[![Codolio Profile Card](https://codolio.com/api/profile/ishitabhatt07/card)](https://codolio.com/profile/ishitabhatt07)
+
+### LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/ishitabhatt07?theme=dark&font=source_code_pro&ext=heatmap)
 
 ---
 
