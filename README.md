@@ -56,7 +56,7 @@ I'm a final year computer science student with a strong passion for Artificial I
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishita_Bhatt-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ishitabhatt07)
-[![Email](https://img.shields.io/badge/Email-ishita.bhatt@example.com-red?style=flat&logo=gmail)](mailto:ishitabhattoffice@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ishitabhattoffice@gmail.com-red?style=flat&logo=gmail)](mailto:ishitabhattoffice@gmail.com)
 
 ---
 
