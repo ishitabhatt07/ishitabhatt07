@@ -29,7 +29,6 @@ I'm a final year computer science student with a strong passion for Artificial I
 ### Programming Languages
 - Python (Proficient)
 - SQL
-- Java
 - C++(Data Structures and Algorithms)
 
 ### ML/DL Frameworks
@@ -47,8 +46,6 @@ I'm a final year computer science student with a strong passion for Artificial I
 
 ### Cloud & Deployment
 - AWS
-- Google Cloud Platform
-- Docker
 - Git/GitHub
 
 ---
